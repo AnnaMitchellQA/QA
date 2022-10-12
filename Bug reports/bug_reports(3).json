@@ -1,0 +1,16 @@
+{
+  "Bug_id":"3",
+  "Priority":"Hight",
+  "Summary":"[Checkout page] Added Promo code is disappeared after user goes away from Checkout page and then come back",
+  "Steps to reproduce":
+  {
+    "1":"Go to any Category",
+    "2":"Add any item to the Cart",
+    "3":"Go to the Checkout page",
+    "4":"Add a valid Promo code 25OFF",
+    "5":"Back to Home page",
+    "6":"Back to Checkout page"
+  },
+  "Expected result":"The Promo code should still be applied",
+  "Actual result":"The Promo code is disappeared"
+}
