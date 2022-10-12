@@ -1,0 +1,9 @@
+Title
+User should be able to navigate to the Cart page from any website page by clicking Cart icon
+
+Steps
+Given user is on any page
+When user clicks on the Cart icon
+
+Expected result
+Then Cart page should open
