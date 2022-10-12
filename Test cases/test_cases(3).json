@@ -1,0 +1,11 @@
+{
+  "TestCase_id":"3",
+  "Title":"Message No items in the Cart should display after user deletes last product from the Cart",
+  "Steps":
+  {
+    "1":"Given user is on the Cart page",
+    "2":"When there is at least one product added",
+    "3":"And user deletes last product from the Cart"
+  },
+  "Expected result":"Then message No items in the cart should display"
+}

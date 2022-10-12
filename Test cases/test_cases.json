@@ -1,0 +1,10 @@
+{
+  "TestCase_id":"1",
+  "Title":"User should be able to navigate to the Cart page from any website page by clicking Cart icon",
+  "Steps":
+  {
+    "1":"Given user is on any page",
+    "2":"When user clicks on the Cart icon",
+  },
+  "Expected result":"Then Cart page should open"
+}
