@@ -1,0 +1,16 @@
+{
+  "Bug_id":"1",
+  "Priority":"Hight",
+  "Summary":"[Checkout page] The Subtotal & Total prices do not reflect the product quantity when it more than one",
+  "Steps to reproduce":
+  {
+    "1":"Go to any Category",
+    "2":"Add any item to the Cart",
+    "3":"Go to the Cart",
+    "4":"Change quantity of the product to (or more)",
+    "5":"Go to the Payment page",
+    "6":"Review the Subtotal price & Total price"
+  },
+  "Expected result":"The Subtotal & Total prices should reflect the product quantity",
+  "Actual result":"The Subtotal & Total prices do not reflect the product quantity"
+}

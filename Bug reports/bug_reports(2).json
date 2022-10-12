@@ -1,0 +1,14 @@
+{
+  "Bug_id":"2",
+  "Priority":"Medium",
+  "Summary":"[Checkout page] The Error message for incomplete Payment form is black when it should be red ",
+  "Steps to reproduce":
+  {
+    "1":"Go to any Category",
+    "2":"Add any item to the Cart",
+    "3":"Go to the Checkout page",
+    "4":"Click Confirm order button",
+  },
+  "Expected result":"The Error message should appear on the page and text should be red",
+  "Actual result":"The Error message for incomplete Payment form is black "
+}
