@@ -1,0 +1,12 @@
+{
+  "TestCase_id":"2",
+  "Title":"Correct product quantity should display for added items",
+  "Steps":
+  {
+    "1":"Given user is on the Product Details page",
+    "2":"When user changes the product quantity",
+    "3":"And adds this product to the Cart",
+    "4":"And navigates to the Cart page"
+  },
+  "Expected result":"Then correct product number will display in the Cart page"
+}
